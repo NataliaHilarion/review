@@ -1,6 +1,6 @@
 # Reviews
 
-Este es un proyecto en el cual se cambian los reviews de los usuarios
+El proyecto implica crear un reel de opiniones de usuarios en JavaScript, donde se puede avanzar a la siguiente opinión al hacer clic en los botones. Se utilizarán técnicas de animación para mejorar la experiencia de usuario al visualizar el reel.
 
 ##Video
 
